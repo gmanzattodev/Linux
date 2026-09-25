@@ -1,4 +1,4 @@
-case "#1" in
+case "$1" in
     html)
         echo "Mostrar comando no html"
         ;;
